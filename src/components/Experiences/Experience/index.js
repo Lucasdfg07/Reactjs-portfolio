@@ -1,10 +1,11 @@
 import React from 'react';
+import './index.css';
 
 const Experience = (props) => {
     return(
         <div className="columns">
-            <div className="column is-4-desktop">
-                <img src={props.imageLogo} alt="Taki App Logo" />
+            <div className="column is-4-desktop has-text-centered logo_image">
+                <span className="helper"></span><img src={props.imageLogo} alt="Taki App Logo" />
             </div>
 
             <div className="column is-7-desktop is-offset-1">

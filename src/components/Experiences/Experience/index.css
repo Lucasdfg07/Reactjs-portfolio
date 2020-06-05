@@ -1,0 +1,20 @@
+.logo_image {
+    white-space: nowrap;
+    
+    text-align: center; 
+    margin: 1em 0;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.logo_image img {
+    vertical-align: middle;
+}
+
+.columns {
+    margin-top: 30px;
+}
