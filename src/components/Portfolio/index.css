@@ -1,0 +1,27 @@
+.card-repo {
+    padding: 20px;
+    border-bottom: 1px solid rgba(10,10,10,0.3);
+}
+
+.card-repo img {
+    width: 32px;
+}
+
+.repo-name {
+    color: black;
+    font-size: 1.2em;
+    font-family: monospace;
+}
+
+.stars {
+    font-size: 1.2em;
+}
+
+ul a {
+    color: rgba(10,10,10,0.4);
+}
+
+.card-repo:hover {
+    background-color: rgba(245,245,245,0.7);
+    box-shadow: -2px 2px 5px rgba(245,245,245,0.3);
+}

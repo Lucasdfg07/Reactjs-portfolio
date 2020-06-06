@@ -1,8 +1,8 @@
 import React from 'react';
 import './index.css';
-import Experiences from '../../Experiences';
+import Experiences from '../Experiences';
 
-const AboutMe = () => {
+const About = () => {
     return(
         <div className="is-8-desktop column space-left">
             <div className="card">
@@ -32,4 +32,4 @@ const AboutMe = () => {
     )
 }
 
-export default AboutMe;
+export default About;

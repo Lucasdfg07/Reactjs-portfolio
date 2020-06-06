@@ -1,9 +1,12 @@
 import React, { useState } from 'react';
 import {AiOutlineUser, AiOutlineMail} from 'react-icons/ai';
+import { useHistory } from 'react-router-dom';
+import * as emailjs from 'emailjs-com';
 
 
 const ContactForm = () => {
     const [formData, setFormData] = useState([]);
+    const history = useHistory();
 
     function handleInputChange(event) {
         const {name, value} = event.target;
@@ -13,9 +16,10 @@ const ContactForm = () => {
 
     function submitForm(event) {
         event.preventDefault();
-        
-        console.log(formData);
+
         alert('Formulário Enviado com Sucesso o/ \n Obrigado pelo Contato!');
+
+        history.push("/");
     }
 
     return(

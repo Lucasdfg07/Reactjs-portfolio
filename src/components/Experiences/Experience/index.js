@@ -3,7 +3,7 @@ import './index.css';
 
 const Experience = (props) => {
     return(
-        <div className="columns">
+        <div className="columns experience">
             <div className="column is-4-desktop has-text-centered logo_image">
                 <span className="helper"></span><img src={props.imageLogo} alt="Taki App Logo" />
             </div>
@@ -19,14 +19,13 @@ const Experience = (props) => {
                     {props.tag}
                 </span>
 
-                <p className="m-top">{props.company} | <b>{props.timeWorking}</b>
+                <p className="m-top">{props.company} | <b>{props.timeWorking}</b></p>
 
-                    <ul className="m-top">
-                        {props.tasks.map(task => 
-                            <li>- {task}</li>    
-                        )}
-                    </ul>
-                </p>
+                <ul className="m-top">
+                    {props.tasks.map(task => 
+                        <li key={task}>- {task}</li>    
+                    )}
+                </ul>
             </div>
         </div>
     )

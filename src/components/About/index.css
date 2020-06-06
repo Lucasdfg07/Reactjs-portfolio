@@ -1,0 +1,9 @@
+.space-left .card {
+    margin-bottom: 20px;
+}
+
+@media only screen and (min-width: 600px) {
+    .space-left {
+        margin-left: 20px;
+    }
+}

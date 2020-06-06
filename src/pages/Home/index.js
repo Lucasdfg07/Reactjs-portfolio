@@ -1,11 +1,19 @@
 import React from 'react';
 import './index.css';
-import AboutMe from '../../components/About/AboutMe';
+import About from '../../components/About';
+import Info from '../../components/Info';
+import Portfolio from '../../components/Portfolio';
 
 const Home = () => {
     return (
         <>
-            <AboutMe />
+            <div className="column is-3-desktop is-5-tablet">
+              <Info />
+              <br />
+              <Portfolio />
+            </div>
+
+            <About />
         </>
     );
 }

@@ -18,3 +18,12 @@
 .columns {
     margin-top: 30px;
 }
+
+.experience {
+    transition: margin 0.5s;
+}
+
+.experience:hover {
+    margin-left: -5px;
+    box-shadow: -2px 2px 15px rgba(10,10,10,0.6);
+}
