@@ -6,7 +6,7 @@ const Repositories = ({repositories}) => {
     return (
         <>
             {repositories.map(repository => {
-                if(!repository.fork && repository.stargazers_count > 0) {
+                if(repository.owner.login == "Lucasdfg07") {
                     return(
                         <a href={repository.html_url} key={repository.id}>
                             <div className="card-repo">

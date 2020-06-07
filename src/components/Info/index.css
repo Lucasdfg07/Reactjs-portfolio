@@ -15,3 +15,7 @@
 .social-svg:hover {
     background-color: white;
 }
+
+.padding {
+    padding: 0px 5px;
+}

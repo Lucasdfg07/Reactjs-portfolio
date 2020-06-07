@@ -1,0 +1,24 @@
+nav {
+    padding: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+nav p{
+    color: Pink; 
+    font-family: "Courier";
+    font-size: 32px;
+    margin: 10px 0 0 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 20em;
+    animation: type 4s steps(90, end); 
+  }
+  
+@keyframes type{ 
+    from { width: 0; } 
+}
+
+.subtitle {
+    color: rgba(255, 255, 255, 0.9);
+}

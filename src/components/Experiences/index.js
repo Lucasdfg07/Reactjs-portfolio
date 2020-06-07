@@ -28,6 +28,15 @@ const Experiences = () => {
                     "Elaborar e construir mockups e diagramas de classe."
                 ]} />
 
+                <Experience imageLogo={ FreelaPhoto } 
+                title="Full Stack Developer"
+                tag="Freelancer"
+                company="At Home"
+                timeWorking="Nov 2019 - Nov 2020"
+                tasks={[
+                    "Desenvolver sistemas automatizados com PHP, Bootstrap, Javascript, HTML5, CSS3, MySQL, entre outras linguagens."
+                ]} />
+
                 <Experience imageLogo={ GlobalNetPhoto } 
                 title="Web Designer"
                 tag="GlobalNetSis"
@@ -36,15 +45,6 @@ const Experiences = () => {
                 tasks={[
                     "Desenvolver Mockups individualizados no Adobe Photoshop para fazer o Web Design",
                     "Participar de reuniões e lidar com clientes afim de otimizar a venda de sistemas e ter uma visão geral da ideia do cliente sobre o projeto."
-                ]} />
-
-                <Experience imageLogo={ FreelaPhoto } 
-                title="Full Stack Developer"
-                tag="Freelancer"
-                company="At Home"
-                timeWorking="Nov 2019 - Nov 2020"
-                tasks={[
-                    "Desenvolver sistemas automatizados com PHP, Bootstrap, Javascript, HTML5, CSS3, MySQL, entre outras linguagens."
                 ]} />
 
                 <Experience imageLogo={ IffPhoto } 

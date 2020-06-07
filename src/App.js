@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 import "rbx/index.css";
-import Header from './pages/shared/Header';
-import Footer from './pages/shared/Footer';
+import Header from './components/shared/Header';
+import Footer from './components/shared/Footer';
 import Routes from './routes';
 import { BrowserRouter } from 'react-router-dom';
 

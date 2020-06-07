@@ -12,17 +12,15 @@ const About = () => {
                     </p>
                 </div>
 
-                <div className="card-content">
-                    <p className="m-top">
-                        Programador produtivo e criativo, comecei a estudar programação aos 14 anos de idade, e a trabalhar profissionalmente com Ruby on Rails há 3 anos.
+                <div className="card-content description-about">
+                    <p>
+                    Productive, communicative, sociable, open-minded and creative programmer, I am a code lover, 
+                    good at React front end but skilled at Ruby on Rails development, that it's where my best skills 
+                    are and where I have more domain.
                     </p>
 
                     <p className="m-top">
-                        Comecei como freelancer, desenvolvendo sites HTM5, CSS3, Bootstrap e alguns Wordpress, e rapidamente encontrei a linguagem Ruby!
-                    </p>
-
-                    <p className="m-top text-center">
-                        Hoje, sinto que posso lidar com qualquer desafio.
+                        Today, having a lot of projects at my Github, I feel like I can handle any challenge!
                     </p>
                 </div>
             </div>

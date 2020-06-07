@@ -2,6 +2,8 @@ import React from 'react';
 import PerfilPhoto from '../../assets/perfil.jpg';
 import './index.css';
 import {SocialIcon} from 'react-social-icons';
+import {AiOutlineFileDone} from 'react-icons/ai';
+import Curriculum from '../../assets/curriculumEN.pdf';
 
 const Info = () => {
     return(
@@ -37,6 +39,14 @@ const Info = () => {
                         network="linkedin" 
                         bgColor="#3251A4" />
                     </div>
+                </div>
+
+                <hr />
+
+                <div className="curriculum">
+                    <a href={Curriculum} className="button is-dark">
+                        Download my CV <span className="padding"></span> <AiOutlineFileDone size={20} />
+                    </a>
                 </div>
             </div>
         </div>
