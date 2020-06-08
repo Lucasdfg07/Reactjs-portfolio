@@ -8,15 +8,15 @@ const About = () => {
             <div className="card">
                 <div className="card-header">
                     <p className="card-header-title">
-                        Sobre Mim
+                        About me
                     </p>
                 </div>
 
                 <div className="card-content description-about">
                     <p>
-                    Productive, communicative, sociable, open-minded and creative programmer, I am a code lover, 
-                    good at React front end but skilled at Ruby on Rails development, that it's where my best skills 
-                    are and where I have more domain.
+                        Productive, communicative, sociable, open-minded and creative programmer, I am a code lover, 
+                        good at React front end but skilled at Ruby on Rails development, that it's where my best skills 
+                        are and where I have more domain.
                     </p>
 
                     <p className="m-top">

@@ -1,14 +1,6 @@
 .space-left .card {
     margin-bottom: 20px;
 }
-.description-about p {
-    color: black; 
-    font-size: 14px;
-    margin: 10px 0 0 10px;
-    overflow: hidden;
-    width: 100%;
-    animation: type 2s steps(90, end); 
-}
 
 @media only screen and (min-width: 600px) {
     .space-left {

@@ -23,9 +23,9 @@ const Experiences = () => {
                 company="Food Delivery Company"
                 timeWorking="Jan 2020 - Até hoje"
                 tasks={[
-                    "Fazer bugfix e features para o back end do sistema.",
-                    "Planejar e desenvolver aplicativos do zero para comercialização.",
-                    "Elaborar e construir mockups e diagramas de classe."
+                    "Making features and bugfix to the app.",
+                    "Planing and developing different apps from 0 that the Company sells.",
+                    "Thinking and Constructing the mockups and class diagrams."
                 ]} />
 
                 <Experience imageLogo={ FreelaPhoto } 
@@ -34,7 +34,7 @@ const Experiences = () => {
                 company="At Home"
                 timeWorking="Nov 2019 - Nov 2020"
                 tasks={[
-                    "Desenvolver sistemas automatizados com PHP, Bootstrap, Javascript, HTML5, CSS3, MySQL, entre outras linguagens."
+                    "Developing system with HTML5, CSS3, PHP, Javascript, JQuery, MySQL and other languages."
                 ]} />
 
                 <Experience imageLogo={ GlobalNetPhoto } 
@@ -43,22 +43,22 @@ const Experiences = () => {
                 company="Web Development Company"
                 timeWorking="Jun 2020 - Aug 2020"
                 tasks={[
-                    "Desenvolver Mockups individualizados no Adobe Photoshop para fazer o Web Design",
-                    "Participar de reuniões e lidar com clientes afim de otimizar a venda de sistemas e ter uma visão geral da ideia do cliente sobre o projeto."
+                    "Developing individual mockups with Adobe Photoshop to the Web Design.",
+                    "Dealing directly with clients in reunions to optimize the sales and to enlarge the view about the project to reproduce their identity on the mockup."
                 ]} />
 
                 <Experience imageLogo={ IffPhoto } 
                 title="Full Stack Ruby on Rails Developer"
-                tag="Instituto Federal Fluminense"
-                company="Instituto Federal Fluminense Campos campus Centro"
+                tag="Federal Institute"
+                company="Federal Institute Campos campus Centro"
                 timeWorking="Nov 2018 - Nov 2019"
                 tasks={[
-                    "Desenvolver um sistema relacionado às ATPAs para automatização da faculdade.",
-                    "Permitir a anexação de atividades extra-curriculares, por parte dos alunos, para a contabilidade e gerenciamento online."
+                    "Developing a system to storage scanned documents and automate the hour accounting of extra activities at the school.",
+                    "Permit online attachment and accounting according the platform."
                 ]} />
 
                 <Experience imageLogo={ IndraPhoto } 
-                title="Operador Técnico N1"
+                title="Technical Operator N1"
                 tag="Indra Company"
                 company="Call Center Company"
                 timeWorking="Nov 2017 - Nov 2018"
