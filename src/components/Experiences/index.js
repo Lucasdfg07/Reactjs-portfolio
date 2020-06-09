@@ -12,7 +12,7 @@ const Experiences = () => {
         <div className="card m-top">
             <div className="card-header">
                 <p className="card-header-title">
-                    Experiências
+                    Experiences
                 </p>
             </div>
 
