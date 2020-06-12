@@ -30,7 +30,7 @@ Here are the technologies used in this project.
 >    $ npm start
 
 
- - Homepage :D
+ ## Homepage :D
 
 ![Initial page](https://github.com/Lucasdfg07/QueroRemoto/blob/master/public/images/initial_page.png)
 
