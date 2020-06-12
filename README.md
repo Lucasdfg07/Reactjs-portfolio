@@ -1,68 +1,56 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## My Personal Portfolio
+This is my portfolio made with React JS to show a little about me :)
 
-## Available Scripts
 
-In the project directory, you can run:
+## Technology 
 
-### `npm start`
+Here are the technologies used in this project.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* React
+* React Router Dom
+* React-icons/AI 
+* React-Social-Icons
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Services Used
 
-### `npm test`
+* Github
+* Netlify
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Getting started
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Dependency
+  - Docker
+  - Docker Compose
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* Clone the project:
+>    $ git clone https://github.com/Lucasdfg07/Reactjs-portfolio
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Run the project:
+>    $ npm start
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+ - Homepage :D
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Initial page](https://github.com/Lucasdfg07/QueroRemoto/blob/master/public/images/initial_page.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Links
+  - Netlify link: https://lucas-siqueira.netlify.app
+  - Repository: https://github.com/Lucasdfg07/Reactjs-portfolio
+    - In case of sensitive bugs like security vulnerabilities, please contact
+      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      to improve the security and privacy of this project!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  ## Versioning
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  1.0.0.0
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+  ## Authors
 
-### Analyzing the Bundle Size
+  * **Lucas Siqueira Fernandes** 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+  Please follow github and join us!
+  Thanks to visiting me and good coding!
