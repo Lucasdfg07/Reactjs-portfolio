@@ -20,8 +20,8 @@ Here are the technologies used in this project.
 ## Getting started
 
 * Dependency
-  - Docker
-  - Docker Compose
+  - Git
+  - Npm
 
 * Clone the project:
 >    $ git clone https://github.com/Lucasdfg07/Reactjs-portfolio
