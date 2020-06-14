@@ -32,7 +32,9 @@ Here are the technologies used in this project.
 
  ## Homepage :D
 
-![Initial page](https://github.com/Lucasdfg07/QueroRemoto/blob/master/public/images/initial_page.png)
+![Initial page](https://github.com/Lucasdfg07/Reactjs-portfolio/blob/master/public/readme/1.png)
+![Initial page](https://github.com/Lucasdfg07/Reactjs-portfolio/blob/master/public/readme/2.png)
+![Initial page](https://github.com/Lucasdfg07/Reactjs-portfolio/blob/master/public/readme/3.png)
 
 
 
