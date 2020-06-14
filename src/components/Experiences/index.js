@@ -41,7 +41,7 @@ const Experiences = () => {
                 title="Web Designer"
                 tag="GlobalNetSis"
                 company="Web Development Company"
-                timeWorking="Jun 2020 - Aug 2020"
+                timeWorking="Jun 2019 - Aug 2019"
                 tasks={[
                     "Developing individual mockups with Adobe Photoshop to the Web Design.",
                     "Dealing directly with clients in reunions to optimize the sales and to enlarge the view about the project to reproduce their identity on the mockup."
